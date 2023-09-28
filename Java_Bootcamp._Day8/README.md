@@ -111,7 +111,7 @@ Method returned:
 - Вы можете использовать оператор throws.
 
 
-## Exercise 01 – Annotations – SOURCE ([директория задания](src/ex02))
+## Exercise 01 – Annotations – SOURCE ([директория задания](src/ex01))
 
 | Exercise 01: Annotations – SOURCE |                     |
 |-----------------------------------|---------------------|
