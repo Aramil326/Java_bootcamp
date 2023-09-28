@@ -5,12 +5,12 @@
 # Содержание
 
 1. [Правила дня](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B4%D0%BD%D1%8F)
-2. [Exercise 00 – Сумма цифр](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#exercise-00--%D1%81%D1%83%D0%BC%D0%BC%D0%B0-%D1%86%D0%B8%D1%84%D1%80-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
-3. [Exercise 01 – Действительно простое число](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#exercise-00--%D1%81%D1%83%D0%BC%D0%BC%D0%B0-%D1%86%D0%B8%D1%84%D1%80-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
-4. [Exercise 02 – Бесконечная последовательность (или нет?)]()
-5. [Exercise 03 – Немного статистики]()
-6. [Exercise 04 – Еще немного статистики]()
-7. [Exercise 05 – Расписание]()
+2. [Exercise 00 – Сумма цифр](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#exercise-00--%D1%81%D1%83%D0%BC%D0%BC%D0%B0-%D1%86%D0%B8%D1%84%D1%80-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+3. [Exercise 01 – Действительно простое число](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#exercise-01--%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B5-%D1%87%D0%B8%D1%81%D0%BB%D0%BE-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+4. [Exercise 02 – Бесконечная последовательность (или нет?)](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#exercise-02--%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%B5%D1%82-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+5. [Exercise 03 – Немного статистики](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#exercise-03--%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+6. [Exercise 04 – Еще немного статистики](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#exercise-04--%D0%B5%D1%89%D0%B5-%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+7. [Exercise 05 – Расписание](https://github.com/Aramil326/Java_bootcamp/tree/master/Java_Bootcamp._Day1#exercise-05--%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 
 ##  Правила дня
