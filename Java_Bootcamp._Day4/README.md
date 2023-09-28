@@ -5,10 +5,10 @@ Threads
 # Содержание
 
 
-1. [Exercise 00 – Egg, Hen... or Human?]()
-2. [Exercise 01 – Egg, Hen, Egg, Hen...]()
-3. [Exercise 02 – Real Multithreading]()
-4. [Exercise 03 – Too Many Threads...]()
+1. [Exercise 00 – Egg, Hen... or Human?](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day4/README.md#exercise-00--egg-hen-or-human-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+2. [Exercise 01 – Egg, Hen, Egg, Hen...](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day4/README.md#exercise-01--egg-hen-egg-hen-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+3. [Exercise 02 – Real Multithreading](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day4/README.md#exercise-02--real-multithreading-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+4. [Exercise 03 – Too Many Threads...](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day4/README.md#exercise-03--too-many-threads-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 
 ## Exercise 00 – Egg, Hen... or Human? ([директория задания](src/ex00))
