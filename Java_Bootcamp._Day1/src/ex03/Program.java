@@ -5,16 +5,16 @@ public class Program {
     private static boolean stopper = false;
     private static int digit = 0;
 
-    public static void main(String[ ] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         long allTestGrades = getAllTestGrades(scanner);
         int temp = 0;
         for (int i = digit; i != 0; i--) {
             long testGrade;
             if (i == digit) {
-                testGrade = allTestGrades % (long)10;
+                testGrade = allTestGrades % (long) 10;
             } else {
-                testGrade = allTestGrades / (long)Math.pow(10, temp) % (long)10;
+                testGrade = allTestGrades / (long) Math.pow(10, temp) % (long) 10;
             }
             printCurWeek(testGrade, temp + 1);
             temp++;
@@ -85,6 +85,7 @@ public class Program {
         }
         System.out.println(">");
     }
+
     private static void throwError() {
         System.err.println("IllegalArgument");
         System.exit(1);

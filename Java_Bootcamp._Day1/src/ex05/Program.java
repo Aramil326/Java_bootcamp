@@ -2,12 +2,12 @@ import java.util.Scanner;
 
 
 public class Program {
-    private static String []names;
-    private static int [][]classes;
-    private static int [][]attendance;
-    private static int [][]result;
+    private static String[] names;
+    private static int[][] classes;
+    private static int[][] attendance;
+    private static int[][] result;
 
-    public static void main(String[ ] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         getNames(scanner);
         getClasses(scanner);
@@ -19,7 +19,7 @@ public class Program {
     }
 
     private static void getNames(Scanner scanner) {
-        String []temp = new String[11];
+        String[] temp = new String[11];
         int namesLength = 0;
         for (int i = 0; i < 11; i++) {
             temp[i] = scanner.next();
@@ -37,7 +37,7 @@ public class Program {
     }
 
     private static void getClasses(Scanner scanner) {
-        String [][]temp = new String[11][2];
+        String[][] temp = new String[11][2];
         int classesLength = 0;
         for (int i = 0; i < 11; i++) {
             temp[i][0] = scanner.next();
@@ -49,7 +49,7 @@ public class Program {
         }
         classesLength = classesLength > 9 ? 10 : classesLength;
         classes = new int[classesLength][2];
-        String []weekDaysNames = new String[]{"MO", "TU", "WE", "TH", "FR", "SA", "SU"};
+        String[] weekDaysNames = new String[]{"MO", "TU", "WE", "TH", "FR", "SA", "SU"};
         for (int i = 0; i < classesLength; i++) {
             classes[i][0] = Integer.parseInt(temp[i][0]);
             for (int j = 0; j < weekDaysNames.length; j++) {
@@ -65,7 +65,7 @@ public class Program {
         for (int i = 0; i < classes.length; i++) {
             for (int j = i; j < classes.length; j++) {
                 if (classes[i][0] > classes[j][0] || classes[i][1] > classes[j][1]) {
-                    int []temp = classes[i];
+                    int[] temp = classes[i];
                     classes[i] = classes[j];
                     classes[j] = temp;
                 }
@@ -74,7 +74,7 @@ public class Program {
     }
 
     private static void getAttendance(Scanner scanner) {
-        int [][]temp = new int[names.length * result.length][4];
+        int[][] temp = new int[names.length * result.length][4];
         int attendanceLength = 0;
         for (int i = 0; i < names.length * result.length; i++) {
             String name = scanner.next();
@@ -88,7 +88,7 @@ public class Program {
             String presence = scanner.next();
             if (presence.equals("NOT_HERE")) {
                 temp[i][3] = -1;
-            } else if (presence.equals("HERE")){
+            } else if (presence.equals("HERE")) {
                 temp[i][3] = 1;
             }
             attendanceLength++;
@@ -107,7 +107,7 @@ public class Program {
         for (int i = 0; i < attendance.length; i++) {
             for (int j = i; j < attendance.length; j++) {
                 if (attendance[i][2] > attendance[j][2] || attendance[i][1] > attendance[j][1]) {
-                    int []temp = attendance[i];
+                    int[] temp = attendance[i];
                     attendance[i] = attendance[j];
                     attendance[j] = temp;
                 }
@@ -127,9 +127,9 @@ public class Program {
     }
 
     private static void setCalendar() {
-        int [][]temp = new int[60][3];
+        int[][] temp = new int[60][3];
         int tempLength = 0;
-        int [][] calendar = new int[][]{ {1, 2},  {2, 3},  {3, 4},  {4, 5},  {5, 6},  {6, 7},  {7, 1},  {8, 2},  {9, 3},  {10, 4},  {11, 5},  {12, 6},  {13, 7},  {14, 1},  {15, 2},  {16, 3},  {17, 4},  {18, 5},  {19, 6},  {20, 7},  {21, 1},  {22, 2},  {23, 3},  {24, 4},  {25, 5},  {26, 6},  {27, 7},  {28, 1},  {29, 2},  {30, 3}};
+        int[][] calendar = new int[][]{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}, {6, 7}, {7, 1}, {8, 2}, {9, 3}, {10, 4}, {11, 5}, {12, 6}, {13, 7}, {14, 1}, {15, 2}, {16, 3}, {17, 4}, {18, 5}, {19, 6}, {20, 7}, {21, 1}, {22, 2}, {23, 3}, {24, 4}, {25, 5}, {26, 6}, {27, 7}, {28, 1}, {29, 2}, {30, 3}};
         for (int[] value : calendar) {
             for (int[] aClass : classes) {
                 if (value[1] == aClass[1]) {
@@ -216,7 +216,7 @@ public class Program {
     }
 
     private static String getWeekDay(int num) {
-        String []weekDaysNames = new String[]{"MO", "TU", "WE", "TH", "FR", "SA", "SU"};
+        String[] weekDaysNames = new String[]{"MO", "TU", "WE", "TH", "FR", "SA", "SU"};
         return weekDaysNames[num - 1];
     }
 }

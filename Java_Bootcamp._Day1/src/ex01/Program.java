@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Program {
-    public static void main(String[ ] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num = 0;
 
@@ -26,7 +26,7 @@ public class Program {
                     break;
                 }
             }
-            System.out.print(is_prime+ " " + (i - 1));
+            System.out.print(is_prime + " " + (i - 1));
             System.exit(0);
         }
     }

@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
 public class Program {
-    private static char [] inputArr;
-    private static int [][] inputNumbersArr;
-    private static int [][] outputNumbersArr;
+    private static char[] inputArr;
+    private static int[][] inputNumbersArr;
+    private static int[][] outputNumbersArr;
     private static int outputArrIndex;
     private static String[][] resultStrArr;
 
-    public static void main(String[ ] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String str = scanner.next();
         if (str.length() > 0) {
@@ -50,8 +50,8 @@ public class Program {
         }
     }
 
-    private static void insertIntoSmallestElem(int [] elem) {
-        int []smallestElem = outputNumbersArr[0];
+    private static void insertIntoSmallestElem(int[] elem) {
+        int[] smallestElem = outputNumbersArr[0];
         int index = 0;
         for (int i = 0; i < outputNumbersArr.length; i++) {
             for (int j = 0; j < outputNumbersArr[i].length; j++) {
@@ -97,7 +97,7 @@ public class Program {
                 if (numberOfGrids == outputNumbersArr[j][2]) {
                     resultStrArr[i][j] = getStringFromInt(outputNumbersArr[j][0]);
                 } else if (i == 11) {
-                    resultStrArr[i][j] = new String(new char[] {(char) outputNumbersArr[j][1]});
+                    resultStrArr[i][j] = new String(new char[]{(char) outputNumbersArr[j][1]});
                 } else if (numberOfGrids < outputNumbersArr[j][2]) {
                     resultStrArr[i][j] = "#";
                 } else {
@@ -110,12 +110,12 @@ public class Program {
 
     private static String getStringFromInt(int num) {
         int numberOfDigits = getNumberOfDigits(num);
-        char []temp = new char[numberOfDigits];
+        char[] temp = new char[numberOfDigits];
         for (int i = 0; i < numberOfDigits; i++) {
-            temp[i] = (char)(num % 10 + '0');
+            temp[i] = (char) (num % 10 + '0');
             num /= 10;
         }
-        char []res = new char[numberOfDigits];
+        char[] res = new char[numberOfDigits];
         for (int i = temp.length - 1, j = 0; i >= 0; i--, j++) {
             res[j] = temp[i];
         }
@@ -125,7 +125,8 @@ public class Program {
     private static int getNumberOfDigits(int num) {
         int i = 0;
         while (num > 0) {
-            num = num / 10; ++i;
+            num = num / 10;
+            ++i;
         }
         return i;
     }

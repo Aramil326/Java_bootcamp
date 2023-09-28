@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Program {
-    public static void main(String[ ] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int num = 0;
@@ -52,7 +52,7 @@ public class Program {
 
     private static int getNumberOfDigits(int num) {
         int i = 0;
-        while(num > 0) {
+        while (num > 0) {
             num = num / 10;
             i++;
         }
