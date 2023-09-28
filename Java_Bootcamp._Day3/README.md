@@ -60,10 +60,6 @@ GIF
 | **Разрешенные конструкции** |                               |
 | Recommended types           | Java Collections API, Java IO |
 
-In addition to classes designed to handle byte flows, Java has classes to simplify handling of character flows (char).
-These include abstract classes Reader/Writer, as well as their implementations (FileReader/FileWriter, etc.). Of special
-interest are BufferedReader/BufferedWriter classes which accelerate flow handling via buffering mechanisms.
-
 Теперь вам нужно реализовать приложение, которое будет определять уровень сходства между текстами. Самый простой и очевидный способ сделать это — проанализировать частоту встречаемости одних и тех же слов.
 
 Предположим, что у нас есть два следующих текста:
