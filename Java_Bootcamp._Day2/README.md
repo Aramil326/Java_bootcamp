@@ -6,13 +6,13 @@ OOP/Collections
 # Contents
 
 
-1. [Introduction to exercises]()
-2. [Exercise 00 – Models]()
-3. [Exercise 01 – ID Generator]()
-4. [Exercise 02 – List of Users]()
-5. [Exercise 03 – List of Transactions]()
-6. [Exercise 04 – Business Logic]()
-7. [Exercise 05 – Menu]()
+1. [Introduction to exercises](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day2/README.md#%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8)
+2. [Exercise 00 – Models](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day2/README.md#exercise-00--models-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+3. [Exercise 01 – ID Generator](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day2/README.md#exercise-01--id-generator-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+4. [Exercise 02 – List of Users](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day2/README.md#exercise-02--list-of-users-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+5. [Exercise 03 – List of Transactions](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day2/README.md#exercise-03--list-of-transactions-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+6. [Exercise 04 – Business Logic](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day2/README.md#exercise-04--business-logic-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+7. [Exercise 05 – Menu](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day2/README.md#exercise-05--menu-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
    
 
