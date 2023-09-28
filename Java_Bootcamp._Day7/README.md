@@ -4,10 +4,10 @@ JUnit/Mockito
 
 
 # Содержание
-4.1. [Exercise 00 – First Tests]()
-5.1. [Exercise 01 – Embedded DataBase]()
-6.1. [Exercise 02 – Test for JDBC Repository]()
-7.1. [Exercise 03 – Test for Service]()
+1. [Exercise 00 – First Tests](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day7/README.md#exercise-00--first-tests-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+2. [Exercise 01 – Embedded DataBase](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day7/README.md#exercise-01--embedded-database-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+3. [Exercise 02 – Test for JDBC Repository](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day7/README.md#exercise-02--test-for-jdbc-repository-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+4. [Exercise 03 – Test for Service](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day7/README.md#exercise-02--test-for-jdbc-repository-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 
 ## Exercise 00 – First Tests ([директория задания](src/ex00))
