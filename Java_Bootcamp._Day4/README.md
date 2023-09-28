@@ -11,7 +11,7 @@ Threads
 4. [Exercise 03 – Too Many Threads...]()
 
 
-## Exercise 00 – Egg, Hen... or Human?
+## Exercise 00 – Egg, Hen... or Human? ([директория задания](src/ex00))
 
 | Exercise 00: Egg, Hen... or Human? |                           |
 |------------------------------------|---------------------------|
@@ -56,7 +56,7 @@ Human
 Это означает, что программа выводит Human сообщение 50 раз, которое печатает основной поток.
 
 
-## Exercise 01 – Egg, Hen, Egg, Hen...
+## Exercise 01 – Egg, Hen, Egg, Hen... ([директория задания](src/ex01))
 
 | Exercise 00: Egg, Hen, Egg, Hen... |                          |
 |------------------------------------|--------------------------|
@@ -83,7 +83,7 @@ Hen
 Для решения данной задачи рекомендуем изучить принцип работы модели Производитель-Потребитель.
 
 
-## Exercise 02 – Real Multithreading
+## Exercise 02 – Real Multithreading ([директория задания](src/ex02))
 
 | Exercise 02: Real Multithreading |                          |
 |----------------------------------|--------------------------|
@@ -120,7 +120,7 @@ Sum by threads: 13
 - Потоки могут непоследовательно выводить результаты работы
 
 
-## Exercise 03 – Too Many Threads...
+## Exercise 03 – Too Many Threads... ([директория задания](src/ex03))
 
 | Exercise 02: Too Many Threads... |                           |
 |----------------------------------|---------------------------|
