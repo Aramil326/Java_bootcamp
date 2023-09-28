@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+main-class: edu.school21.printer.app.Program
