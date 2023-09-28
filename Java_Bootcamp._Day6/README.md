@@ -4,11 +4,11 @@ SQL/JDBC
 
 # Содержание
 
-1. [Exercise 00 – Tables & Entities]()
-2. [Exercise 01 – Read/Find]()
-3. [Exercise 02 – Create/Save]()
-4. [Exercise 03 – Update]()
-5. [Exercise 04 – Find All]()
+1. [Exercise 00 – Tables & Entities](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day6/README.md#exercise-00--tables--entities-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+2. [Exercise 01 – Read/Find](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day6/README.md#exercise-01--readfind-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+3. [Exercise 02 – Create/Save](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day6/README.md#exercise-02--createsave-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+4. [Exercise 03 – Update](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day6/README.md#exercise-03--update-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+5. [Exercise 04 – Find All](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day6/README.md#exercise-03--update-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 
 ## Exercise 00 – Tables & Entities ([директория задания](src/ex00))
