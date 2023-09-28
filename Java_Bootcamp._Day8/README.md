@@ -4,9 +4,8 @@ Reflection
 
 # Содержание
 
-1. [Exercise 00 – Work with Classes]()
-2. [Exercise 01 – Annotations – SOURCE]()
-3. [Exercise 02 – ORM]()
+1. [Exercise 00 – Work with Classes](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day8/README.md#exercise-00--work-with-classes-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+2. [Exercise 01 – Annotations – SOURCE](https://github.com/Aramil326/Java_bootcamp/blob/master/Java_Bootcamp._Day8/README.md#exercise-01--annotations--source-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
 
 ## Exercise 00 – Work with Classes ([директория задания](src/ex00))
